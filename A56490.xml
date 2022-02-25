@@ -1,0 +1,539 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular relation of the battel, fought on the 29th of July, 1693, between the confederate army, commanded by His Majesty of Great Britain and the Elector of Bavaria, &amp;c. and that of France, commanded by the M. d'Luxemburgh with an exact list of the principal officers killed, wounded, and taken prisoners on both sides.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56490</idno>
+            <idno type="STC">Wing P597A</idno>
+            <idno type="STC">ESTC R5912</idno>
+            <idno type="EEBO-CITATION">13087387</idno>
+            <idno type="OCLC">ocm 13087387</idno>
+            <idno type="VID">97310</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97310)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 747:50)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular relation of the battel, fought on the 29th of July, 1693, between the confederate army, commanded by His Majesty of Great Britain and the Elector of Bavaria, &amp;c. and that of France, commanded by the M. d'Luxemburgh with an exact list of the principal officers killed, wounded, and taken prisoners on both sides.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Able Roper ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"As it was printed at Brussels by authority."</note>
+                  <note>Wing lists title as reading: "... battel, fought on the 20th of July, 1693, ..."</note>
+                  <note>Advertisement: p. 12.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Maximilian --  II Emanuel, --  Elector of Bavaria, 1662-1726.</term>
+               <term>Luxembourg, François-Henri de Montmorency, --  duc de, 1628-1695.</term>
+               <term>Landen, Battle of, 1693.</term>
+               <term>France --  History, Military --  1643-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97310:1"/>
+            <pb facs="tcp:97310:1" rendition="simple:additions"/>
+            <p>Particular Relation OF THE BATTEL, Fought on the 29<hi rend="sup">th</hi> of
+<hi>July,</hi> 1693, Between the Confederate ARMY, Commanded by <hi>His
+Majeſty of GREAT BRITAIN,</hi> AND THE <hi>Elector of BAVARIA,</hi> &amp;c.
+And that of <hi>France,</hi> Commanded by the M. <hi>d' Luxemburgh</hi>
+            </p>
+            <p>WITH An Exact Liſt of the Principal Officers killed, wounded and
+taken Priſoners on both ſides.</p>
+            <p>As it was Printed at <hi>Bruſſels</hi> by Authority.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Abel Roper,</hi> at the Mitre
+near <hi>Temple-Bar.</hi> 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97310:2"/>
+            <pb n="3" facs="tcp:97310:2"/>
+            <head>A Particular Relation OF THE BATTEL Fought betwixt the
+Confederate and French ARMIES, On the 29th of <hi>July,</hi> 1693.</head>
+            <p>THE Convenience of Forrage furniſhing the <hi>French</hi> Army
+with an opportunity to ſubſiſt longer at their Camp at
+<hi>Helleſheim,</hi> and the ſcarcity they foreſaw would happen in the
+Army of the Confe<g ref="char:EOLhyphen"/>derates, in caſe they made a longer ſtay in the place
+where they were encamped, <hi>viz. Park,</hi> near <hi>Louvain,</hi> being in
+all probability likely to incommode ſo great a Multitude, the King of
+<hi>Great Britain</hi> and the Elector of <hi>Bavaria</hi> reſolved to make a
+conſiderable Detachment of Horſe and Foot under the Duke of
+<hi>Wirtemburgh</hi> towards <hi>French Flanders,</hi> to break the Lines by
+which the Enemy ever ſince the beginning of this War have covered their
+Country, and taking away the means of forcing them to a Contribution, hoping by
+this Diverſion either to put their Deſign in execution, or elſe to open a
+Paſſage which the Enemy had hitherto blocked up, and they obtain<g ref="char:EOLhyphen"/>ed ſome
+days after. We were now informed, that the Mareſchal <hi>d' Lux<g ref="char:EOLhyphen"/>emburgh</hi>
+marched with all imaginable ſpeed to ſhew themſelves before <hi>Huy,</hi>
+               <pb n="4" facs="tcp:97310:3"/>a City in the Biſhoprick of <hi>Liege,</hi> ſeated on the
+<hi>Meuſe,</hi> betwixt <hi>Liege</hi> on the one ſide and <hi>Namur</hi>
+on the other. The next day the Confederate Army marched in purſuit of the
+Enemy, rather deſigning to through 10 Battalions which have been drawn from
+thence to fill up the Detachment of the Duke of <hi>Wirtemburgh,</hi> than to
+ſuccour the City of <hi>Huy,</hi> becauſe they were ſa<g ref="char:EOLhyphen"/>tisfied they had
+not time to do it, and that the Ground the Enemy had poſted themſelves in
+would not permit it; whereupon the Army marched and encamped with its right at
+<hi>Alo,</hi> and its left at <hi>Oppintenguen:</hi> Here Advice came, that we
+had capitulated after a few Cannon-Balls and Bombs had played againſt the
+Town, and that the Mareſchal <hi>d' Luxemburgh</hi> had marched towards
+<hi>Liege,</hi> as in truth he did, advancing with his right with<g ref="char:EOLhyphen"/>in a League
+and half of that City, which obliged the Confederates to ſend back the 10
+Battalions to <hi>Liege,</hi> which they had drawn out of that Gar<g ref="char:EOLhyphen"/>riſon, and
+three more to <hi>Maſtricht,</hi> and to march with all their Army to their
+Camp at <hi>Necheſpin</hi> and <hi>Wangheim,</hi> the little River of
+<hi>Gheete</hi> being under back, within ſeven Leagues of the Enemy's Camp,
+to prevent them from gaining their march before us, and poſting themſelves
+betwixt <hi>Bruſſels</hi> and us, which was their chief Deſign all this
+Campaign. Although ſome were of advice to paſs the River and poſt our
+ſelves behind <hi>Tillemont,</hi> yet the Troops being fatigued, and the
+Enemy having not ſtirr'd all that day, it was reſolved to make a halt in
+the ſame place.</p>
+            <p>On the 28th of this Month, being nevertheleſs in readineſs to
+con<g ref="char:EOLhyphen"/>tinue our march, when the French Army ſhould advance, which the
+Ma<g ref="char:EOLhyphen"/>reſchal <hi>d' Luxemburgh</hi> did with ſo much Secrecy and Diligence,
+that ha<g ref="char:EOLhyphen"/>ving marched from Ten of the Clock the Night before, the firſt Advice
+we had of them in the Camp of the Confederates, was to ſee and appear the
+next Day about Three of the Clock in the Morning, on the 29th, up<g ref="char:EOLhyphen"/>on the Hills
+of <hi>Raidſhoven,</hi> on the ſide of <hi>Lanfirmy,</hi> now called
+<hi>Lan<g ref="char:EOLhyphen"/>den.</hi>
+            </p>
+            <p>His Majeſty of <hi>Great Britain,</hi> and his Electoral
+Highneſs, immediately mounted on Horſeback, being followed by all the
+Generals, and gave Or<g ref="char:EOLhyphen"/>ders for the Soldiers to get their Arms ready. Being now
+ſatisfied, that the Enemy came with a reſolution to attack us, and that for
+this purpoſe they poſſeſſed themſelves of the Village of
+<hi>Overwind,</hi> it was reſolved to move before them with the Body of the
+Army and part of the Right-wing, to poſſeſs the riſing Ground between
+<hi>Neerwinden</hi> and near <hi>Landen,</hi> and with their Foot to ſeize
+the Villages of <hi>Neerwinden</hi> and <hi>Laer,</hi> which was before our
+Right-wing. This was put in execution by his Electoral Highneſs in perſon,
+with ſix Battalions of <hi>Brandenburghers,</hi> that were in the
+<hi>Spaniſh</hi> Pay; five <hi>Engliſh,</hi> and ſix of
+<hi>Hannouer.</hi> This took up all the Evening, and at break of the day we
+found the Enemy put themſelves in readineſs to fall upon <pb n="5" facs="tcp:97310:3"/>us; Orders were therefore given, to make a Retrenchment and to raiſe
+a Breaſtwork in a right Line before the Body of the Army, put<g ref="char:EOLhyphen"/>ting all the
+Infantry behind upon two Lines, that ſo they might ſup<g ref="char:EOLhyphen"/>port one another
+upon occaſion; five Batteries of greater Artillery were raiſed, that
+commanded and flanked all the Ground, by which the Enemy were to make their
+Approaches; the left Wing was cover<g ref="char:EOLhyphen"/>ed with a hollow Way, almoſt
+inacceſſable, and likewiſe with other ad<g ref="char:EOLhyphen"/>vantages that ſtill were
+aſſured them againſt any Attack. All this did not hinder us from
+reinforcing them with ſome new Recruits of Foot; and beſides this, all
+Precautions were taken which they thought convenient; Orders were given to
+paſs the River with all the Baggage, and to march for <hi>Dyest,</hi> which
+was accordingly performed. Powder and Ball were now diſtributed, and every
+one was commanded to prepare themſelves for the fight; the King of <hi>Great
+Britain,</hi> as Generaliſſimo over them all, and his Electoral Highneſs
+afterwards commanded the whole right Wing, where the Marqueſs <hi>d'
+Bedmar,</hi> Mareſchal d' Camp General of <hi>Spain,</hi> gave Orders to all
+the Troops of that Wing, except a Party of thoſe of <hi>Hanno<g ref="char:EOLhyphen"/>ver,</hi> which
+the Prince Elector of <hi>Brumſwick</hi> commanded; as this Prince himſelf
+was commanded by his Electoral Highneſs. In the right Wing, on the firſt
+Line, where the <hi>Spaniſh</hi> Troops were placed, was the Lieute<g ref="char:EOLhyphen"/>nant
+General of the Cavalry of <hi>Puy;</hi> after him followed the Count <hi>d'
+Ar<g ref="char:EOLhyphen"/>co,</hi> Lieutenant-General, who commanded the <hi>Bavarian</hi> Curiaciers;
+then the Baron <hi>d' Heyden,</hi> Commandant of the Troops of
+<hi>Brandenburgh;</hi> next, at the Head of the Troops of <hi>Hannouer,</hi>
+was the Electoral Prince of <hi>Brunſ<g ref="char:EOLhyphen"/>wick,</hi> with General
+<hi>Offencer;</hi> and the Infantry was now advanced as far as the Villages
+above mentioned.</p>
+            <p>Prince <hi>Charles</hi> of <hi>Brandenburgh,</hi> Brother to his
+Electoral Highneſs of that name, commanded, as General, ſix
+<hi>Brandenburgh</hi> Battalians; Brigadier <hi>Ramſey,</hi> five
+<hi>Engliſh;</hi> and Leiutenant General <hi>Dumont,</hi> ſix of
+<hi>Hannouer;</hi> the Count <hi>d' Brovay,</hi> commanded the
+<hi>Spaniſh</hi> Squadrons in the ſecond Line, and the Count <hi>Soye</hi>
+thoſe of <hi>Brandenburgh</hi> in the ſame Line. The Right-wing of the
+Infantry in the Body of the Army was commanded by Count <hi>Solmes;</hi> the
+Left of the ſame Infantry by Prince <hi>Naſſau</hi> of
+<hi>Frizeland;</hi> but the Cavalry of the main Body was commanded by Prince
+<hi>Naſſau-Sarbrooke</hi> in Subordina<g ref="char:EOLhyphen"/>tion; his Electoral Highneſs had
+with him <hi>Don Franciſco d' Caſtillo,</hi> General of the Artillery, the
+Duke of <hi>Holſteine,</hi> the Marqueſs of <hi>
+                  <g ref="char:V">Ʋ</g>ſcia,</hi> the Prince
+<hi>d' Barbenſon,</hi> and all the Lords of the Court; and the Marqueſs
+<hi>d' Bedmare</hi> had with him the Count <hi>d' Thian</hi> and <hi>Don
+Franciſco Manriquez.</hi>
+            </p>
+            <p>Thus the night paſſed in making theſe Preparations, without
+any o<g ref="char:EOLhyphen"/>ther Action, but all were at their Arms; and his Electoral Highneſs 
+<pb n="6" facs="tcp:97310:4"/>mounting on Horſe-back at break of the day to viſit the
+advanced Villa<g ref="char:EOLhyphen"/>ges, found that the Infantry that were poſted there were not
+ſufficient to maintain them, nor to hinder the Enemy from finding means to
+pierce into our Camp; and as ſoon as it was day it plainly appeared by the
+Enemy's Motion, that their deſign was to attack our Front all together. While
+theſe things were doing, the King of <hi>England</hi> arrived at the
+Right-wing, asking for his Electual Highneſs, to conferr and deliberate about
+their laſt Reſolutions. The Cannon now began to play from the Batteries
+that were planted in the main Body upon the Enemy's Horſe, which now poured
+down from the neighbouring Hills into the Plain: and his Majeſty being told,
+that it was neceſſary to poſt a greater Body of Foot into this place; he
+gave Orders for two more Battalions and four Squadrons of Dragoons of
+<hi>Hannouer,</hi> which ſerved pritty well to ſtop ſome empty places,
+altho' the concluſion ſhewed they were not ſufficient with ſuch Unequal
+Numbers to oppoſe the Mighty Multitudes of the Enemy. In this poſture we
+expected the <hi>French,</hi> ſhewing a great deal of Satisfaction and more
+Joy then had been ever ſeen in the Army, which was then ſo much the more
+ſurprizing in ours, ſince it was Inferior to that of the Enemies in more
+then 30 or 36000 Men; however, this Enequality was in ſome manner repaired by
+that Preſence of Mind, that Activity and Diligence which our two Generals
+ſhewed every-where. About five of the Clock in the Morning ſeveral other
+Batteries were ordered to play; and we ſaw the Enemy approach, taking their
+princi<g ref="char:EOLhyphen"/>pal Forces as far as the Right-wing to encompaſs, as a Serpent would
+do with his Tayl, our Left-wing up to their Retrenchments made before our main
+Body: but a little after we were made ſenſible to attack us every-where all
+at a time, advancing with their Left to poſſeſs themſelves of two
+ſmall Villages where our Troops were poſted; which his Electo<g ref="char:EOLhyphen"/>ral
+Highneſs obſerving, he puſhed forward, with the Generals that fol<g ref="char:EOLhyphen"/>lowed
+him, to encourage with his Preſence the foot that defended them; and this
+affected for ſome time ſucceſsfully, expoſing him in all places not as
+a General, but as the moſt incoſinderable Officer. The King of <hi>Great
+Britain</hi> ſhewed himſelf Indefatigable on all occaſions, leading up
+ſeveral Battalions himſelf to charge, after having ſhared the Command
+with the other Generals. In the mean time the Enemy's Forces were ſo
+ſupe<g ref="char:EOLhyphen"/>rior to ours in Number, that two of our Battalions were obliged to give
+way, and as it were at the ſame time the others that where placed at the
+Left: during theſe Actions on both ſides, the Enemy's foot gained a Poſt
+on the Right, where his Electoral Highneſs was, by favour of which ſome
+Squadrons found an opportunity to advance into the Plain; and <pb n="7" facs="tcp:97310:4"/>thus broke the firſt and ſecond Line of the Horſe, piercing as
+far as a River that was on the back of our Army, which the Marqueſs <hi>d'
+Bedmar</hi> obſerving, be beat them back to the Poſt they had gained upon
+the foot, where very few of them eſcaped, being cut in peices upon the
+ſpot: and at the ſame time his Electoral Highneſs on one ſide, with his
+ſword in his hand, and the Marqueſs <hi>d' Bedmar</hi> on the other,
+rallyed theſe Battalions that had given way, and led them to the Poſt which
+they had loſt, and now retook with a mighty ſlaughter of the Enemy, and
+likewiſe eſtabliſh<g ref="char:EOLhyphen"/>ed two Lines of Cavalry in ſuch manner as if thy had
+not fought at all.</p>
+            <p>While they paſſed, thoſe who on the right had the management
+of a Battery of ſix Pieces, abandoned it without orders, ſo that the
+Generals at their return found themſelves without Artillery, which cauſed a
+great Confuſion.</p>
+            <p>The Main Body was perpetually attackt, and there was great firing
+on both ſides, on the left wing with a Vigour and Reſolution that can
+hardly be equalled; this hindred not the Enemy from reinforcing their left with
+Horſe and Foot, and attacking the poſt of the right wing of the
+Confederates afreſh, whoſe forces were much diminiſhed; and ha<g ref="char:EOLhyphen"/>ving no
+other Foot to relieve and ſupport them this gave the Enemy an occaſion to
+pierce unto our Camp; and putting themſelves in a poſture to attack our
+Horſe the ſecond time, the Count <hi>d' Arco</hi> General of the
+<hi>Ba<g ref="char:EOLhyphen"/>varians</hi> charged them with bravery and ſucceſs, that he drove
+them back to their Camp with the ſame fury that the Enemy had made appear
+when they fell upon him.</p>
+            <p>At the ſame time his Electoral Highneſs returned with the
+Generals that followed him with a deſign to reinforce the Foot, and to retake
+this poſt the third time. The enemy reſted ſome time without doing any
+thing, either rendred wiſe by what had already happened to them, or elſe
+expecting new recruits which ſoon after appeared; then turning a little upon
+the right they threw themſelves upon two Battalions of <hi>Hannouer,</hi> who
+not being able to make a longer oppoſition, retired af<g ref="char:EOLhyphen"/>ter they had made a
+great ſlaughter, and diſcovering the Flank of the Main Body, the Enemy
+began furiouſly to fall upon the <hi>Engliſh</hi> Battalions; the
+<hi>French</hi> having poſted theſe new forces on their left,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtretched themſelves as far
+as the place where his Electoral Highneſs was with a Battalion of the Blew
+Guards, of his Brittannick Majeſty's, who obſer<g ref="char:EOLhyphen"/>ving the poſture and
+numbers of the Enemy, and foreſeeing the miſ<g ref="char:EOLhyphen"/>chief that might happen, he
+ſent the Marqueſs <hi>d' Bedmar</hi> to charge them in the Flank, whilſt
+the Elector attacked them on the Front; then the Officers of the Blew
+Battalions and two others ſent word to his Electo<g ref="char:EOLhyphen"/>ral Highneſs, that they
+had no more Ammunition left, after they
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <pb n="8" facs="tcp:97310:5"/>fought for
+the ſpace of ſix hours entire, and while they went to bring up the right
+wing of the Infantry, belonging to the Main Body, began to retire, not being
+able any longer to endure the great Firing that was made upon them, both in the
+Front and in the Flank<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Enemy
+find<g ref="char:EOLhyphen"/>ing a free paſſage open by the favour of the Foot, came with the
+groſs body of their Horſe and attacked the <hi>Hannouer</hi> Cavalry, which
+they broke, and extending themſelves from the Village as far as the River,
+that was behind us, immediately formed a Line, and ſeparated our right Wing
+of the Main Body; which his Electoral Highneſs ſeeing, as alſo that the
+left Wing had begun to withdraw, and that the Main Body was doing the ſame,
+as he followed it, he ordered his <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uriaſeers to make a Counter<g ref="char:EOLhyphen"/>march, becauſe they ſtood the
+neareſt to make head againſt the Enemy, and calling all the Generals
+together that were not far from him, he told them, they ſaw in what a
+condition things were, that if it was neceſſary to Sacrifice themſelves,
+and throw away their own lives, he would be the firſt; to which they
+anſwered, that there was no other way to take, but to retire in the beſt
+order they could; he told them, he ſufficiently ſaw the neceſſity of
+it, but could not without great difficulty ſubmit to ſuch a cruel
+reſolution, all of them repreſented to him how ſmall a time he had to put
+this in execution and put the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in readineſs to paſs the
+Bridge, which could not be done eaſily, the Enemy being already mingled with
+our Men who had gained the other ſide of this ſmall River; and here it was
+that we loſt ſome Offices and Souldiers; his Royal Highneſs placing
+himſelf on the otherſide, and rallied all the Cavalry and Infantry that had
+paſſed the River and the Bridge, ſtill ſupporting thoſe that were
+ready to paſs it, and here he taried till ſuch time as the Rear Guard was
+on the ſame ſide the River with him, then ſlowly retiring to
+<hi>Tillemont,</hi> he there found his <hi>Britannick</hi> Majeſty who was
+newly arrived; and who had retired from the Field of Battle at the ſame time
+by another Bridge. In this place they ſtay'd till night drew on, gathering
+all the diſperſt re<g ref="char:EOLhyphen"/>mainders of the Battle, and after that marched to the
+neighbourhood of <hi>L<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>vain;</hi>
+the Cavalry of the left wing, and the Infantry of the Main Body, retired
+towards <hi>Leewe,</hi> and from thence to <hi>Dyeſt,</hi> from which laſt
+place they are expected, and thence we ſhall ſee that the loſs we
+ſuſtain, was <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>finitely leſs
+then we imagined was at firſt. His <hi>Brittannick</hi> Majeſty is re<g ref="char:EOLhyphen"/>tired
+between <hi>Mahines</hi> and <hi>Vilvord</hi> with his own Troops and thoſe
+of <hi>Hannouer</hi> and his Electoral Highneſs with thoſe of
+<hi>Spain,</hi> his own and <hi>Brandenburgh,</hi> within a League of
+<hi>Bruſſels,</hi> where daily arrive abundance of of People who were
+miſſing on our ſide, and where we are upon the point of joyning the Main
+Body, aſſoon as the Detachment of the <hi>D.</hi> of <hi>Wirtenburgh</hi>
+is returned from the expedition on the Enemies Line.</p>
+            <p>
+               <pb n="9" facs="tcp:97310:5"/>Never was any action managed with greater
+obſtinacy and warmth; the Valour and Experience both of his Majeſty and his
+Electoral Highneſs appeared in ſo extraordinary a Manner, that we may
+ſafely ſay, that if they dont ſurpaſs the Moſt Celebrated Generals of
+Antiquity they equal them at leaſt, but as for the preſent age they have
+known to diſ<g ref="char:EOLhyphen"/>pute the bravery with them. We dont Juſtly know as yet Number
+of the ſlain, the priſoners or the wounded, Either in the Confederate
+<hi>Army</hi> or that of the Enemies, but the Common Report is, and it ſeems
+to be well grounded that the Enemy have loſt above 20000 Men amongſt which
+60 Generalls or perſons of Note, and about 3000 other Subalterine officers;
+we are aſſured that the loſs of the Al<g ref="char:EOLhyphen"/>lies do's not amount to 7 or 8000
+men taking the dead and wounded and the Number of Officers is not
+Conſiderable, we have 400 Priſoners of the Enemy and 32 Officers and are
+Credibly Informed that the Enemy have not above 300 of ours and very few
+Officers; as for what Remains all the Generals of the King of <hi>England,</hi>
+and the Allies wrought miracles, as likewiſe did thoſe of his Catholick
+Majeſty; and perſons of the greateſt experience in Military Offices,
+Confeſt they never beheld ſo bloody and obſti<g ref="char:EOLhyphen"/>nate a Fight; it is agreed
+upon all hands that near 30000 perſons were Killed in the field of Battle;
+which will not appear ſtrange if we Conſider that they fought for 9 hours
+together, and that almoſt with the ſame vigour and Gal<g ref="char:EOLhyphen"/>lantry that divers
+Poſts fortified Either by Art or Nature were gained or loſt, that the
+Cavalry ſuſtained ſeveral furi<g ref="char:EOLhyphen"/>ous attacks, that the Artillery of the
+Allies played 4 En<g ref="char:EOLhyphen"/>tire hours and made a horrible Maſſacre of the Enemy,
+who could bring up only a few ſmall pieces to the place of battle by reaſon
+of the defiles; and laſtly that a bridg was to be paſſed in the ſight
+of a victorious <hi>Arm.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="lists_of_casualties">
+            <pb n="10" facs="tcp:97310:6"/>
+            <list>
+               <head>A Liſt of the Generals and Principal Officers of the
+Confederate Army that were Ki<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led,
+Wounded and made Priſoners in this Action.</head>
+               <item>THE Prince <hi>de Barbancon,</hi> Dead.</item>
+               <item>The Barron <hi>d' Offener,</hi> Lieutenant General of the
+Troops of <hi>Hannover,</hi> Dead.</item>
+               <item>The Count <hi>de Solms,</hi> Lieutenant General of
+<hi>Holland,</hi> his Legs ſhot off.</item>
+               <item>The Duke of <hi>Holſteyn,</hi> Admiral of
+<hi>Flanders,</hi> Wound<g ref="char:EOLhyphen"/>ed.</item>
+               <item>The Sieur <hi>Fagell,</hi> Brigadier, Dead.</item>
+               <item>The Major General <hi>Bouche</hi> of <hi>Hannover,</hi>
+Dead.</item>
+               <item>The Major General <hi>Oorth</hi> of <hi>Hannover,</hi>
+Wounded.</item>
+               <item>The Duke of <hi>Ormond,</hi> Lieutenant General, Wounded, and
+taken Priſoner.</item>
+               <item>The Sieur de <hi>Scravenmore,</hi> General, ſlightly
+Wounded, and taken Priſoner.</item>
+               <item>The Sieur de <hi>Zuylenſteyn,</hi> Lieutenant General,
+taken Pri<g ref="char:EOLhyphen"/>ſoner.</item>
+               <item>The Count de <hi>Brouay,</hi> General, taken
+Priſoner.</item>
+               <item>Coll. <hi>Wieſel,</hi> Dead.</item>
+               <item>Baron de <hi>Heyden,</hi> Major General, Wounded</item>
+               <item>The Count d' <hi>Arco,</hi> General of the Cairaſſiers,
+Wound<g ref="char:EOLhyphen"/>ed.</item>
+               <item>Don <hi>Domenico Pignatelli,</hi> Maſter of the Camp of one
+third of the Horſe, Wounded.</item>
+               <item>
+                  <hi>Don Louis d Borja,</hi> Brother to the Duke of
+<hi>Gandia,</hi> Ma<g ref="char:EOLhyphen"/>ſter of the Camp of one third of the Horſe,
+Wounded.</item>
+               <item>
+                  <hi>Don Alexandro d' Guzman,</hi> Maſter of the Camp of one
+third of the Cavalry, wounded</item>
+               <item>
+                  <hi>Coll. d' Bay,</hi> wounded.</item>
+               <item>
+                  <hi>Coll. Aylva,</hi> his legg ſhot off.</item>
+               <item>
+                  <pb n="11" facs="tcp:97310:6"/>
+                  <hi>Coll.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ordon</hi> Wounded and taken
+Priſoner, with ſeveral others as well dead as Wounded and taken
+Priſoners.</item>
+            </list>
+            <list>
+               <head>A Liſt of the Principal officers of the <hi>Army</hi> of
+<hi>France</hi> that were Killed, Wounded and taken Priſoners.</head>
+               <item>The Count <hi>d' Montchevrevil Lieut.</hi> General and
+Gover<g ref="char:EOLhyphen"/>nour of <hi>Artas,</hi> dead.</item>
+               <item>The <hi>Duke</hi> of <hi>
+                     <g ref="char:V">Ʋ</g>ſer Coll.</hi> of the Reg. of
+<hi>Cruzoll,</hi> dead.</item>
+               <item>The Prince <hi>Paul,</hi> ſecond Son of the Prince of
+<hi>Lillebonne,</hi> Colonel of the Horſe dead.</item>
+               <item>Mr. <hi>de Quo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dt,</hi> Brigadier, dead.</item>
+               <item>The Count <hi>d' M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntfort,</hi> Son of the Duke of <hi>Cheureuſe,</hi> Bri<g ref="char:EOLhyphen"/>gadier,
+dead.</item>
+               <item>The Count <hi>d' Gournay,</hi> Col. dead.</item>
+               <item>The Count <hi>d' Imecour,</hi> Brigadier, dead.</item>
+               <item>The Count <hi>d' Gaſſion,</hi> Officer of the Guards
+<hi>du Corps,</hi> dead</item>
+               <item>The Marquis <hi>de Lignery,</hi> Officer of the Guards of
+Corps, dead.</item>
+               <item>The M<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>quis <hi>d'
+Montrevell,</hi> Brigadier, dead.</item>
+               <item>The <hi>S<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+Bohle,</hi> Brigadier, dead.</item>
+               <item>The Count <hi>d' Chanvallon,</hi> Enſign of the Light
+Horſe, dead.</item>
+               <item>The Sieur <hi>Roſes</hi> Son, Lieut. Gen. dead.</item>
+               <item>The Marquis <hi>d' Tracy;</hi> Officer of the Guards <hi>du
+Corps,</hi> dead.</item>
+               <item>The Lord <hi>Lucan,</hi> alias <hi>Sarsfield,</hi> Marſhal
+<hi>d'</hi> Camp, dead.</item>
+               <item>
+                  <hi>Chaſſenet,</hi> Captain of a Regiment of Guards,
+dead.</item>
+               <item>
+                  <hi>Gav<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t,</hi>
+Capt. of the ſame Regiment, dead.</item>
+               <item>The Prince <hi>d' Conte,</hi> Lieut. Gen. wounded by a Sabre
+on the head</item>
+               <item>The Duke <hi>d' la Rocheguyon,</hi> his Foot ſhot off by a
+Muſ<g ref="char:EOLhyphen"/>quet.</item>
+               <item>The Duke <hi>d' Monm<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rancy,</hi> Marſhal <hi>d'</hi> Camp, and Son of the Marſhal
+<hi>d' Luxemburgh,</hi> wounded.</item>
+               <item>The Duke <hi>d' St. Simon,</hi> Brigadier, wounded.</item>
+               <item>Mr. <hi>de Ximenes,</hi> Lieut. Gen. and Governour of
+<hi>Maubeuge,</hi> wounded.</item>
+               <gap reason="missing" resp="#OXF" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
